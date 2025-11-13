@@ -1,9 +1,10 @@
 {
     "name": "create-neptune-app",
     "version": "0.0.1",
-    "description": "CLI to bootstrap a new Neptune project using neptune and neptoon (placeholder package, under development; not ready for use).",
+    "description": "CLI to bootstrap a new Neptune project using neptu and neptoon (placeholder package, under development; not ready for use).",
     "bin": {
-      "create-neptune-app": "dist/index.js"
+      "create-neptune-app": "dist/index.js",
+      "create-neptu-app": "dist/index.js"
     },
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -15,9 +16,9 @@
     },
     "keywords": [
       "create-neptune-app",
+      "neptune",
       "cli",
       "scaffolding",
-      "neptune",
       "placeholder"
     ],
     "license": "MIT"
