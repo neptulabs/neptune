@@ -1,0 +1,23 @@
+{
+    "name": "neptoon",
+    "version": "0.0.1",
+    "description": "Node-based UI editor for Neptune graphs (placeholder package, under development; not ready for use).",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc -p tsconfig.json",
+      "dev": "echo \"[neptoon] placeholder dev (no UI yet)\"",
+      "lint": "echo \"[neptoon] no lint configured (placeholder)\"",
+      "test": "echo \"[neptoon] no tests configured (placeholder)\""
+    },
+    "keywords": [
+      "neptoon",
+      "neptune",
+      "node-editor",
+      "ui",
+      "deep-learning",
+      "placeholder"
+    ],
+    "license": "MIT"
+  }
+  

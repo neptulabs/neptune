@@ -1,0 +1,22 @@
+{
+    "name": "neptune",
+    "version": "0.0.1",
+    "description": "Node-based deep learning framework engine (placeholder package, under development; not ready for use).",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc -p tsconfig.json",
+      "dev": "echo \"[neptune] placeholder dev (no runtime yet)\"",
+      "lint": "echo \"[neptune] no lint configured (placeholder)\"",
+      "test": "echo \"[neptune] no tests configured (placeholder)\""
+    },
+    "keywords": [
+      "neptune",
+      "deep-learning",
+      "graph-compiler",
+      "torch.compile",
+      "placeholder"
+    ],
+    "license": "MIT"
+  }
+  

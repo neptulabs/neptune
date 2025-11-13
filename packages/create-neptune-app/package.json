@@ -1,0 +1,25 @@
+{
+    "name": "create-neptune-app",
+    "version": "0.0.1",
+    "description": "CLI to bootstrap a new Neptune project using neptune and neptoon (placeholder package, under development; not ready for use).",
+    "bin": {
+      "create-neptune-app": "dist/index.js"
+    },
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc -p tsconfig.json",
+      "dev": "node dist/index.js --help || echo \"Build first: pnpm run build\"",
+      "lint": "echo \"[create-neptune-app] no lint configured (placeholder)\"",
+      "test": "echo \"[create-neptune-app] no tests configured (placeholder)\""
+    },
+    "keywords": [
+      "create-neptune-app",
+      "cli",
+      "scaffolding",
+      "neptune",
+      "placeholder"
+    ],
+    "license": "MIT"
+  }
+  
