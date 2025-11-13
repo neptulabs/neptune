@@ -1,7 +1,7 @@
 {
     "name": "neptunets",
     "version": "0.0.1",
-    "description": "Node-based deep learning framework engine (placeholder package, under development; not ready for use).",
+    "description": "Neptune.ts - Node-based deep learning framework engine (placeholder package, under development; not ready for use).",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {

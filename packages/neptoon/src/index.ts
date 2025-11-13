@@ -8,7 +8,7 @@
 export const name = "neptoon";
 
 export const description =
-  "Node-based UI editor for Neptune graphs (placeholder). Will visualize kernels and connections, and update the .neptune graph store. For now, this package is a non-functional placeholder that simply describes the intent.";
+  "Node-based UI editor for Neptune.ts graphs (placeholder). Will visualize kernels and connections, and update the .neptune graph store. For now, this package is a non-functional placeholder that simply describes the intent.";
 
 /**
  * Planned concept (not implemented):

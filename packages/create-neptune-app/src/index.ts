@@ -10,10 +10,10 @@
 const message = `
 create-neptune-app (placeholder)
 
-This CLI will eventually scaffold a new Neptune project by:
+This CLI will eventually scaffold a new Neptune.ts project by:
 
 - Creating a fresh project directory.
-- Installing and wiring up the "neptune" core framework.
+- Installing and wiring up the "neptunets" engine framework.
 - Installing and wiring up the "neptoon" node-based UI editor.
 - Generating a starter .neptune graph file and basic project structure.
 - Adding dev scripts for building and running Neptune projects.
