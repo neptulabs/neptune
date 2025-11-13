@@ -5,7 +5,7 @@
  * reserve the "neptune" package name on npm and document the intended design.
  */
 
-export const name = "neptune";
+export const name = "neptunets";
 
 export const description =
   "Node-based deep learning framework engine (placeholder). Future graph compiler that will integrate with torch.compile and a local .neptune graph store. For now, this package is a non-functional placeholder that simply describes the intent.";

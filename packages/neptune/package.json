@@ -1,5 +1,5 @@
 {
-    "name": "neptune",
+    "name": "neptunets",
     "version": "0.0.1",
     "description": "Node-based deep learning framework engine (placeholder package, under development; not ready for use).",
     "main": "dist/index.js",
@@ -12,6 +12,8 @@
     },
     "keywords": [
       "neptune",
+      "neptunets",
+      "neptune.ts",
       "deep-learning",
       "graph-compiler",
       "torch.compile",
